@@ -10,7 +10,6 @@ lib
 *.sublime-*
 .idea
 dist
-yarn.lock
 .vscode
 exampleslib
 examples/scripts/configs.json
@@ -18,3 +17,4 @@ jquery.html
 docs/fonts/
 docs/ajax-loader.gif
 package-lock.json
+.DS_Store
